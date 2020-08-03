@@ -1,3 +1,3 @@
 # hello-world
 Juss another repository
-Super Elite
+for the Super Elite
